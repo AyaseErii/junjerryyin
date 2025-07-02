@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Peilin Chen"
-  avatar           : "my_photo6.jpg"
-  bio              : "Ph.D. student at UVA"
+  name             : "Jun (Jerry) Yin"
+  avatar           : "Jun Yin_Photo.jpg"
+  bio              : "Ph.D. Candidate at UVA"
   location         : "Charlottesville, VA, USA"
   employer         : 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=REMjlmUAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=gRBgQ2gAAAAJ&hl=en&authuser=1"
   email            :  "peilin@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : #"https://example.com/cv.pdf"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "peilin-chen"
+  github           : "AyaseErii"
   google_plus      :
   keybase          :
   instagram        :
