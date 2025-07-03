@@ -14,19 +14,25 @@ redirect_from:
 
 ## Short Bio
 
-Peilin (Leo) Chen is a first-year Ph.D. student in the ECE Department of the University of Virginia (UVA) under the supervision of Prof. [Xiaoxuan Yang](https://xiaoxuan-yang.github.io/index.html). He received the B.S. degree in Electrical Engineering from Xidian University (XDU). His research interests are Digital/Mixed-signal IC Design, AI Chips Based on Computing-In-Memory, and Computer Architecture.
+Jun (Jerry) Yin is a Ph.D. candidate in the Department of Electrical and Computer Engineering (ECE) at the University of Virginia (UVA) advised by Prof. [Mircea R. Stan](https://engineering.virginia.edu/faculty/mircea-r-stan). He received the M.S. degree in Materials Science and Engineering from Tsinghua University (THU) and the M.E. degree in Electrical Engineering from UVA. His research interests are ultra-low-power memory circuit design, energy-efficient emerging memory design and fabrication for Computing-In-Memory, highly sensitive RF energy harvesting circuits and systems, digital VLSI design, and analog mixed-signal IC design.
 
 &emsp;
 
 ## News
 
 <div class="news-container">
-  <p><strong>[2025.07]</strong> Paper "Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration" wins <strong>Best Paper Award of GLSVLSI 2025</strong> 🎉!</p>
-  <p><strong>[2025.04]</strong> One first-authored paper has been accepted to ACM GLSVLSI 2025! See you in New Orleans, USA 🎉!</p>
-  <p><strong>[2025.04]</strong> Accepted as a DAC Young Fellow at the 62nd Design Automation Conference! See you in San Francisco, USA 🎉!</p>
-  <p><strong>[2024.12]</strong> One first-authored paper has been accepted to IEEE AICAS 2025! See you in Bordeaux, France 🎉!</p>
-  <p><strong>[2024.06]</strong> My dissertation, <strong>Design, logic synthesis and physical implementation of pipeline processor based on RISC-V architecture</strong>, has been selected as the excellent graduation project 🎉!</p>
-  <p><strong>[2024.02]</strong> I will be a Ph.D. student at the University of Virginia in Fall 2024 and have been awarded the UVA Provost's Fellowship 🎉!</p>
+  <p><strong>[2025.06]</strong> Paper "Unlocking High-Performance Low-Power Adiabatic Logic Computing with Modern FinFET Technology Node" was orally presented at <strong>GLSVLSI'25</strong> 🎉!</p>
+  <p><strong>[2025.04]</strong> My first-authored paper has been accepted by ACM GLSVLSI 2025! See you in New Orleans, USA 🎉!</p>
+  <p><strong>[2025.02]</strong> Paper "Design and Modeling for Very High-sensitivity UHF RF Energy Harvesting Circuit" was orally presented and was nominated for <strong>Best Paper Award in LASCAS 2025</strong> 🎉 ! </p>
+  <p><strong>[2024.12]</strong> I finished <strong> SRAM/Register-File/Memory Circuit Design internship </strong> at MediaTek USA Inc. 🎉!</p>
+  <p><strong>[2024.10]</strong> My first-authored paper has been accepted by <strong>IEEE LASCAS 2025</strong>! See you in Bento Goncalves, Brazil 🎉!</p>
+  <p><strong>[2024.5]</strong> I will start my SRAM/Register-File/Memory Circuit Design internship at MediaTek USA Inc. TX🎉!</p>
+  <p><strong>[2024.12]</strong> 🎉!</p>
+  <p><strong>[2024.12]</strong> 🎉!</p>
+  <p><strong>[2024.12]</strong> 🎉!</p>
+  <p><strong>[2024.12]</strong> 🎉!</p>
+  <p><strong>[2024.12]</strong> 🎉!</p>
+  <p><strong>[2024.12]</strong> 🎉!</p>
 </div>
 
 <br/><br/>
