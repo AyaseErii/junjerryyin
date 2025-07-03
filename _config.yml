@@ -13,7 +13,7 @@ name                     : &name "Jun Yin's Homepage"
 description              : &description "personal description"
 url                      : https://ayaseerii.github.io/junjerryyin/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "peilin-chen/peilin-chen.github.io"
+repository               : "AyaseErii/junjerryyin"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         : 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=gRBgQ2gAAAAJ&hl=en&authuser=1"
-  email            :  "peilin@virginia.edu"
+  email            :  "htf6ry@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : #"https://example.com/cv.pdf"
   bitbucket        :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "peilin-chen-1050242b5"
-  orcid            : "https://orcid.org/0009-0008-7564-1597"
+  linkedin         : "jun-jerry-yin-06b799223"
+  orcid            : "https://orcid.org/0000-0002-3902-2341"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bilibili: 
+  #bilibili : 
 
 
 # Reading Files
@@ -256,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
