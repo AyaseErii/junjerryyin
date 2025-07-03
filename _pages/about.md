@@ -25,9 +25,9 @@ I am a Ph.D. candidate in the Department of Electrical and Computer Engineering 
   <p><strong>[2025.05]</strong> I passed UVA Electrical Engineering <strong>Ph.D. Dissertation Proposal</strong> 🎉!</p>
   <p><strong>[2025.04]</strong> My first-authored paper has been accepted by <strong>ACM GLSVLSI 2025</strong>! See you in New Orleans, LA, USA 🎉!</p>
   <p><strong>[2025.02]</strong> Paper "Design and Modeling for Very High-sensitivity UHF RF Energy Harvesting Circuit" was orally presented and was nominated for <strong>Best Paper Award in LASCAS 2025</strong> 🎉 ! </p>
-  <p><strong>[2024.12]</strong> I finished <strong> SRAM/Register-File/Memory Circuit Design internship </strong> at MediaTek USA Inc. 🎉!</p>
+  <p><strong>[2024.12]</strong> I finished <strong> SRAM/Register-File/Memory Circuit Design internship</strong> at MediaTek USA Inc. 🎉!</p>
   <p><strong>[2024.10]</strong> My first-authored paper has been accepted by <strong>IEEE LASCAS 2025</strong>! See you in Bento Goncalves, Brazil 🎉!</p>
-  <p><strong>[2024.05]</strong> I will start SRAM/Register-File/Memory Circuit Design internship at MediaTek USA Inc. See you in Austin, TX, USA🎉!</p>
+  <p><strong>[2024.05]</strong> I will start <strong>SRAM/Register-File/Memory Circuit Design internship</strong> at MediaTek USA Inc. See you in Austin, TX, USA🎉!</p>
   <p><strong>[2024.05]</strong> Paper "A Feedback Self-adaptive Body Biasing-based RF-DC Rectifier for Highly-sensitive RF Energy Harvesting" was orally presented at <strong>ISCAS 2024</strong>🎉!</p>
   <p><strong>[2024.01]</strong> My first-authored paper has been accepted by IEEE ISCAS 2024! See you in Singapore 🎉!</p>
   <p><strong>[2023.05]</strong> Paper "A Low Power SRAM with Fully Dynamic Leakage Suppression for IoT Nodes" was orally presented at <strong>ISQED'23</strong>🎉!</p>
