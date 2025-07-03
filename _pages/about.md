@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to Peilin's homepage!
+# Welcome to Jun's homepage!
 
 &emsp;
 
