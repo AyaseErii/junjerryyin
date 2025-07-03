@@ -14,7 +14,7 @@ redirect_from:
 
 ## Short Bio
 
-Jun (Jerry) Yin is a Ph.D. candidate in the Department of Electrical and Computer Engineering (ECE) at the University of Virginia (UVA) advised by Prof. [Mircea R. Stan](https://engineering.virginia.edu/faculty/mircea-r-stan). He received the M.S. degree in Materials Science and Engineering from Tsinghua University (THU) and the M.E. degree in Electrical Engineering from UVA. His research interests are ultra-low-power memory circuit design, energy-efficient emerging memory design and fabrication for Computing-In-Memory, highly sensitive RF energy harvesting circuits and systems, digital VLSI design, and analog mixed-signal IC design.
+I am a Ph.D. candidate in the Department of Electrical and Computer Engineering (ECE) at the University of Virginia (UVA) advised by Prof. [Mircea R. Stan](https://engineering.virginia.edu/faculty/mircea-r-stan). I received the M.S. degree in Materials Science and Engineering from Tsinghua University (THU) and the M.E. degree in Electrical Engineering from UVA. My research interests are ultra-low-power memory circuit design, energy-efficient emerging memory design and fabrication for Computing-In-Memory, highly sensitive RF energy harvesting circuits and systems, digital VLSI design, and analog mixed-signal IC design. I published over ten papers in both peer-reviewed high-impact journals and conferences on the cross-field of electronic device fabrication and IC design, including Science Advances, Advanced Functional Materials, ISCAS, ISQED, GLSVLSI, etc., with a total citation of 750+ and an H-index of 8. I am a Graduate Student Member of IEEE and a 59th DAC Young Fellow. I served as a reviewer in IEEE TVLSI, IEEE Access, Integration, GLSVLSI, PRIME, VLSI-SoC, etc.
 
 &emsp;
 
@@ -22,12 +22,12 @@ Jun (Jerry) Yin is a Ph.D. candidate in the Department of Electrical and Compute
 
 <div class="news-container">
   <p><strong>[2025.06]</strong> Paper "Unlocking High-Performance Low-Power Adiabatic Logic Computing with Modern FinFET Technology Node" was orally presented at <strong>GLSVLSI'25</strong> 🎉!</p>
-  <p><strong>[2025.04]</strong> My first-authored paper has been accepted by ACM GLSVLSI 2025! See you in New Orleans, USA 🎉!</p>
+  <p><strong>[2025.04]</strong> My first-authored paper has been accepted by ACM GLSVLSI 2025! See you in New Orleans, LA, USA 🎉!</p>
   <p><strong>[2025.02]</strong> Paper "Design and Modeling for Very High-sensitivity UHF RF Energy Harvesting Circuit" was orally presented and was nominated for <strong>Best Paper Award in LASCAS 2025</strong> 🎉 ! </p>
   <p><strong>[2024.12]</strong> I finished <strong> SRAM/Register-File/Memory Circuit Design internship </strong> at MediaTek USA Inc. 🎉!</p>
   <p><strong>[2024.10]</strong> My first-authored paper has been accepted by <strong>IEEE LASCAS 2025</strong>! See you in Bento Goncalves, Brazil 🎉!</p>
-  <p><strong>[2024.5]</strong> I will start my SRAM/Register-File/Memory Circuit Design internship at MediaTek USA Inc. TX🎉!</p>
-  <p><strong>[2024.12]</strong> 🎉!</p>
+  <p><strong>[2024.5]</strong> I will start SRAM/Register-File/Memory Circuit Design internship at MediaTek USA Inc. See you in Austin, TX, USA🎉!</p>
+  <p><strong>[2024.]</strong> 🎉!</p>
   <p><strong>[2024.12]</strong> 🎉!</p>
   <p><strong>[2024.12]</strong> 🎉!</p>
   <p><strong>[2024.12]</strong> 🎉!</p>
