@@ -26,14 +26,14 @@ I am a Ph.D. candidate in the Department of Electrical and Computer Engineering 
   <p><strong>[2025.02]</strong> Paper "Design and Modeling for Very High-sensitivity UHF RF Energy Harvesting Circuit" was orally presented and was nominated for <strong>Best Paper Award in LASCAS 2025</strong> 🎉 ! </p>
   <p><strong>[2024.12]</strong> I finished <strong> SRAM/Register-File/Memory Circuit Design internship </strong> at MediaTek USA Inc. 🎉!</p>
   <p><strong>[2024.10]</strong> My first-authored paper has been accepted by <strong>IEEE LASCAS 2025</strong>! See you in Bento Goncalves, Brazil 🎉!</p>
-  <p><strong>[2024.5]</strong> I will start SRAM/Register-File/Memory Circuit Design internship at MediaTek USA Inc. See you in Austin, TX, USA🎉!</p>
-  <p><strong>[2024.5]</strong> Paper "A Feedback Self-adaptive Body Biasing-based RF-DC Rectifier for Highly-sensitive RF Energy Harvesting" was orally presented at <strong>ISCAS 2024</strong>🎉!</p>
-  <p><strong>[2024.1]</strong> My first-authored paper has been accepted by IEEE ISCAS 2024! See you in Singapore 🎉!</p>
-  <p><strong>[2023.5]</strong> Paper "A Low Power SRAM with Fully Dynamic Leakage Suppression for IoT Nodes" was orally presented at <strong>ISQED'23</strong>🎉!</p>
-  <p><strong>[2023.3]</strong> I passed UVA Electrical Engineering <strong>Ph.D. Qualification Exam</strong>🎉!</p>
-  <p><strong>[2023.1]</strong> My first-authored paper has been accepted by IEEE ISQED 2023! See you in San Francisco, CA, USA🎉!</p>
+  <p><strong>[2024.05]</strong> I will start SRAM/Register-File/Memory Circuit Design internship at MediaTek USA Inc. See you in Austin, TX, USA🎉!</p>
+  <p><strong>[2024.05]</strong> Paper "A Feedback Self-adaptive Body Biasing-based RF-DC Rectifier for Highly-sensitive RF Energy Harvesting" was orally presented at <strong>ISCAS 2024</strong>🎉!</p>
+  <p><strong>[2024.01]</strong> My first-authored paper has been accepted by IEEE ISCAS 2024! See you in Singapore 🎉!</p>
+  <p><strong>[2023.05]</strong> Paper "A Low Power SRAM with Fully Dynamic Leakage Suppression for IoT Nodes" was orally presented at <strong>ISQED'23</strong>🎉!</p>
+  <p><strong>[2023.03]</strong> I passed UVA Electrical Engineering <strong>Ph.D. Qualification Exam</strong>🎉!</p>
+  <p><strong>[2023.01]</strong> My first-authored paper has been accepted by IEEE ISQED 2023! See you in San Francisco, CA, USA🎉!</p>
   <p><strong>[2022.10]</strong> I was accepted as the 59th Design Automation Conference (DAC) Young Fellow! 🎉!</p>
-  <p><strong>[2021.6]</strong> I joined the High-performance Low-power (HPLP) Lab at the University of Virginia (UVA) as a Ph.D. student🎉!</p>
+  <p><strong>[2021.06]</strong> I joined the High-performance Low-power (HPLP) Lab at the University of Virginia (UVA) as a Ph.D. student🎉!</p>
 </div>
 
 <br/><br/>
