@@ -40,7 +40,7 @@ I am a Ph.D. candidate in the Department of Electrical and Computer Engineering 
 <br/><br/>
 <div id="map-container" style="display: flex; justify-content: center; align-items: center;">
     <div id="map-content" style="width: 450px;">
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=d6TpbDkm30MhQxBEAnFmYRgisF6BV0T-GlVSiA0GfDY&cl=ffffff&w=a"></script>
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=kSb93N52x2U9z9PRxfGTcD8ZHwzGV_fBos_PVdGlKUg&cl=ffffff&w=a"></script>
     </div>
 </div>
 
