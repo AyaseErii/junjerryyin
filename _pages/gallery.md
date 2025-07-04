@@ -1,17 +1,15 @@
 ---
 layout: archive
 title: "Chip Gallery"
-permalink: /gallery/
+permalink: /chipgallery/
 author_profile: True
 ---
 
-## XDU, Xi'an, China, Jun. 2024
+## Five Guys Chip (180 nm)
 
 <img src="/images/XDU_1.JPG">
 
-<img src="/images/XDU_2.JPG">
-
-On June 7, 2024, I graduated from Xidian University🎉🎉🎉!
+The chips were sent back from Efabless MPW shuttle 🎉🎉🎉!
 
 ## NTU, Singapore, Aug. 2023
 
