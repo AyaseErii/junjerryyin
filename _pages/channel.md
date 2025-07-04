@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "research"
-permalink: /research/
+title: "channel"
+permalink: /channel/
 author_profile: true
 ---
 
