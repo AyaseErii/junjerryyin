@@ -17,13 +17,13 @@ The chips were sent back from SKY130 MPW🎉🎉🎉!
 
 <!--img src="/images/chip_180.jpg"-->
 <!--img src="/images/chip_180.jpg" style="max-height: 50px; max-width: 50px;" /-->
-<img src="images/chip_180.jpg" width="300" height="400" alt="Description">
+<img src="images/chip_180.jpg" width="300" height="400">
 
 The chips were sent back from Efabless MPW shuttle 🎉🎉🎉!
 
 
 ## AI Accelerator
-<img src="images/memristor_accel.PNG" width="300" height="400" alt="Description">
+<img src="images/memristor_accel.PNG" width="300" height="400">
 
 The chips were successfully made in the clean room 🎉🎉🎉!
 
