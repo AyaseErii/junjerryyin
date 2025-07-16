@@ -26,3 +26,6 @@ The chips were sent back from Efabless MPW shuttle 🎉🎉🎉!
 
 The chips were successfully made in the clean room 🎉🎉🎉!
 
+
+### Are you curious aboout the micro/nano-scale structure of the chip? Here are the images!
+
