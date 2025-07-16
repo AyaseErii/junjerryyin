@@ -4,7 +4,8 @@ title: "Chip Gallery"
 permalink: /chip gallery/
 author_profile: True
 ---
-# The chips showing below are what I designed/fabricated mainly! I am proud of them!
+# The chips showing below are what I designed/fabricated mainly
+
 ## NIST Emerging Device Integration Project (SKY130)
 
 <img src="/images/NTU-1.jpg">
