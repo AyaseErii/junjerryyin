@@ -8,7 +8,8 @@ author_profile: True
 
 ## NIST Emerging Device Integration Project (SKY130)
 
-<img src="/images/NTU-1.jpg">
+<img src="/images/memristor_accel.png">
+
 
 The chips were sent back from SKY130 MPW🎉🎉🎉!
 
