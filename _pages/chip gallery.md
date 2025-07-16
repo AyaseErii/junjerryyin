@@ -14,7 +14,7 @@ The chips were sent back from SKY130 MPW🎉🎉🎉!
 
 ## Five Guys Chip (GF180)
 
-<img src="/images/XDU_1.JPG">
+<img src="/images/chip_180.jpg">
 
 The chips were sent back from Efabless MPW shuttle 🎉🎉🎉!
 
