@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Chip Gallery"
-permalink: /gallery/
+permalink: /chip gallery/
 author_profile: True
 ---
 
