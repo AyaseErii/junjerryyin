@@ -36,7 +36,7 @@ The chips were successfully made in the clean room 🎉🎉🎉!
 <img src="../images/1T1R.png">
 
 ## Pt/HfOx/HfOy/W device cross-section
-<img src="../images/PtHfOW.png">
+<img src="../images/PtHfOW.png" width="600" height="400">
 
 ## Pt/HfOx/HfOy/Ag device cross-section
 <img src="../images/AgHfOPt.png">
