@@ -35,8 +35,14 @@ The chips were successfully made in the clean room 🎉🎉🎉!
 ## 1-transistor-1-resistive-memory (1T1R) array
 <img src="../images/1T1R.png">
 
+This is a Scanning Electron Microscopes (SEM) image
+
 ## Pt/HfOx/HfOy/W device cross-section
 <img src="../images/PtHfOW.png" width="400" height="300">
 
+This is a High Resolution Transmission Electron Microscope (HRTEM) image
+
 ## Pt/HfOx/HfOy/Ag device cross-section
 <img src="../images/AgHfOPt.png">
+
+This is a Transmission Electron Microscope (TEM) image
