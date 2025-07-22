@@ -8,7 +8,7 @@ author_profile: True
 
 ## NIST Emerging Device Integration Project (SKY130)
 
-<img src="../images/sky130_NIST.JPG">
+<img src="../images/sky130_NIST.JPG" width="300" height="400">
 
 
 The chips were sent back from SKY130 MPW🎉🎉🎉!
