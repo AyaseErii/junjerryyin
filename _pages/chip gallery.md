@@ -32,3 +32,11 @@ The chips were successfully made in the clean room 🎉🎉🎉!
 
 # Are you curious aboout the micro/nano-scale structure of the chip? Here are the images!
 
+## 1-transistor-1-resistive-memory (1T1R) array
+<img src="../images/1T1R.png">
+
+## Pt/HfOx/HfOy/W device cross-section
+<img src="../images/PtHfOW.png">
+
+## Pt/HfOx/HfOy/Ag device cross-section
+<img src="../images/AgHfOPt.png">
