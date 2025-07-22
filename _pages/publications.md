@@ -7,10 +7,10 @@ author_profile: true
 
 ## Conference Papers
 
-* **Yin, Jun**; Stan, Mircea;, "Unlocking High-Performance Low-Power Adiabatic Logic Computing with Modern FinFET Technology Node", Proceedings of the Great Lakes Symposium on VLSI 2025, 85-90, 2025
+* **Yin, Jun** and Stan, Mircea;, "Unlocking High-Performance Low-Power Adiabatic Logic Computing with Modern FinFET Technology Node", Proceedings of the Great Lakes Symposium on VLSI 2025, 85-90, 2025
 * **Yin, Jun** and Stan, Mircea R, "Design and Modeling for Very High-sensitivity UHF RF Energy Harvesting Circuit", 2025 IEEE 16th Latin America Symposium on Circuits and Systems (LASCAS), 1-5, 2025 <span style="color: red;">(**Best Paper Award Nominee**)</span>
 * **Yin, Jun**; Pantoja, Elisa; Gao, Yimin; Stan, Mircea R, "A Feedback Self-adaptive Body Biasing-based RF-DC Rectifier for Highly sensitive RF Energy Harvesting", 2024 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2024
-* **Yin, Jun**; Stan, Mircea R, "A Low Power SRAM with Fully Dynamic Leakage Suppression for IoT Nodes", The 24th International Symposium on Quality Electronic Design (ISQED’23), 1-6, 2023
+* **Yin, Jun** and Stan, Mircea R, "A Low Power SRAM with Fully Dynamic Leakage Suppression for IoT Nodes", The 24th International Symposium on Quality Electronic Design (ISQED’23), 1-6, 2023
 * Kiani, Fatemeh; **Yin, Jun**, "A fully hardware-based memristive multilayer perceptron", The International Conference on Memristive Materials, Devices & Systems (MEMRISYS'22), 2022
 * Kiani, Fatemeh; **Yin, Jun**; Wang, Zhongrui; Yang, J Joshua; Xia, Qiangfei, "All hardware-based two-layer perceptron implemented in memristor crossbar arrays",	2021 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2021
 
