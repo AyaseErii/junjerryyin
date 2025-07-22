@@ -8,7 +8,7 @@ author_profile: True
 
 ## NIST Emerging Device Integration Project (SKY130)
 
-<img src="/images/memristor_accel.png">
+<img src="../images/memristor_accel.png">
 
 
 The chips were sent back from SKY130 MPW🎉🎉🎉!
@@ -19,14 +19,14 @@ The chips were sent back from SKY130 MPW🎉🎉🎉!
 <!--img src="/images/chip_180.jpg"-->
 <!--img src="/images/chip_180.jpg" style="max-height: 50px; max-width: 50px;" /-->
 <!--img src="/images/chip_180.jpg" width="300" height="400"-->
-<img src="/images/chip_180.jpg">
+<img src="../images/chip_180.jpg">
 
 The chips were sent back from Efabless MPW shuttle 🎉🎉🎉!
 
 
 ## AI Accelerator
 <!--img src="/images/memristor_accel.png" width="300" height="400"-->
-<img src="/images/memristor_accel.png">
+<img src="../images/memristor_accel.png">
 
 The chips were successfully made in the clean room 🎉🎉🎉!
 
