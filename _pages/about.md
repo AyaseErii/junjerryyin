@@ -21,6 +21,7 @@ I am a Ph.D. candidate in the Department of Electrical and Computer Engineering 
 ## News
 
 <div class="news-container">
+  <p><strong>[2025.11]</strong> I defended my <strong> Ph.D. Dissertation "Design Strategies of Low Power Circuitry for Internet of Things Devices and Applications" </strong> successfully 🎉!</p>
   <p><strong>[2025.06]</strong> Paper "Unlocking High-Performance Low-Power Adiabatic Logic Computing with Modern FinFET Technology Node" was orally presented at <strong>GLSVLSI'25</strong> 🎉!</p>
   <p><strong>[2025.05]</strong> I passed UVA Electrical Engineering <strong>Ph.D. Dissertation Proposal</strong> 🎉!</p>
   <p><strong>[2025.04]</strong> My first-authored paper has been accepted by <strong>ACM GLSVLSI 2025</strong>! See you in New Orleans, LA, USA 🎉!</p>
