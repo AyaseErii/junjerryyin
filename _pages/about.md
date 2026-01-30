@@ -21,6 +21,7 @@ I am a Ph.D. candidate in the Department of Electrical and Computer Engineering 
 ## News
 
 <div class="news-container">
+  <p><strong>[2026.01]</strong> I officially joined <strong> Samsung SRAC/ACL </strong> as <strong> Senior Engineer</strong> to work on SRAM Logic Circuits Design 🎉!</p>
   <p><strong>[2025.11]</strong> I defended my <strong> Ph.D. Dissertation "Design Strategies of Low Power Circuitry for Internet of Things Devices and Applications" </strong> successfully 🎉!</p>
   <p><strong>[2025.06]</strong> Paper "Unlocking High-Performance Low-Power Adiabatic Logic Computing with Modern FinFET Technology Node" was orally presented at <strong>GLSVLSI'25</strong> 🎉!</p>
   <p><strong>[2025.05]</strong> I passed UVA Electrical Engineering <strong>Ph.D. Dissertation Proposal</strong> 🎉!</p>
