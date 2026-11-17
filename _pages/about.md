@@ -21,6 +21,7 @@ I am a Ph.D. candidate in the Department of Electrical and Computer Engineering 
 ## News
 
 <div class="news-container">
+  <p><strong>[2026.11]</strong> Paper "High-Performance Low-Power Adiabatic Systolic Array Design in Advanced FinFET Nodes" won the best paper award at <strong>IEEE ICCD 2026</strong> 🎉!</p>
   <p><strong>[2026.08]</strong> My first-authored paper has been accepted by <strong>IEEE ICCD 2026</strong>! See you in Hong Kong, China 🎉!</p>
   <p><strong>[2026.07]</strong> My co-authored paper has been accepted by <strong>IEEE/ACM MICRO 2026</strong>! See you in Athens, Greece 🎉!</p>
   <p><strong>[2026.01]</strong> I officially joined <strong> Samsung SRAC/ACL </strong> as <strong> Senior Engineer</strong> to work on SRAM Logic Circuits Design 🎉!</p>
