@@ -7,10 +7,12 @@ author_profile: true
 
 ## Conference Papers
 
+* **Yin, Jun**; Dai, Liangtao; Gao, Yimin; and Stan, Mircea. "High-Performance Low-Power Adiabatic Systolic Array Design in Advanced FinFET Nodes." _The 44th IEEE International Conference on Computer Design (ICCD 2026)_, 2026. <span style="color: red;">(**Best Paper Award**)</span>
 * **Yin, Jun** and Stan, Mircea, "Unlocking High-Performance Low-Power Adiabatic Logic Computing with Modern FinFET Technology Node", _Proceedings of the Great Lakes Symposium on VLSI 2025_, 85-90, 2025
 * **Yin, Jun** and Stan, Mircea R, "Design and Modeling for Very High-sensitivity UHF RF Energy Harvesting Circuit", _2025 IEEE 16th Latin America Symposium on Circuits and Systems (LASCAS)_, 1-5, 2025 <span style="color: red;">(**Best Paper Award Nominee**)</span>
 * **Yin, Jun**; Pantoja, Elisa; Gao, Yimin; Stan, Mircea R, "A Feedback Self-adaptive Body Biasing-based RF-DC Rectifier for Highly sensitive RF Energy Harvesting", _2024 IEEE International Symposium on Circuits and Systems (ISCAS)_, 1-5, 2024
 * **Yin, Jun** and Stan, Mircea R, "A Low Power SRAM with Fully Dynamic Leakage Suppression for IoT Nodes", _The 24th International Symposium on Quality Electronic Design (ISQED’23)_, 1-6, 2023
+* Gao, Yimin; Dai, Liangtao; **Yin, Jun**; Guo, Xinfei; and Stan, Mircea. "FlexPosit: Tunable Fractional Precision for LLM Inference Accelerators." _59th IEEE/ACM International Symposium on Microarchitecture (MIRCO'26)_, 2026.
 * Kiani, Fatemeh; **Yin, Jun**, "A fully hardware-based memristive multilayer perceptron", _The International Conference on Memristive Materials, Devices & Systems (MEMRISYS'22)_, 2022
 * Kiani, Fatemeh; **Yin, Jun**; Wang, Zhongrui; Yang, J Joshua; Xia, Qiangfei, "All hardware-based two-layer perceptron implemented in memristor crossbar arrays",	_2021 IEEE International Symposium on Circuits and Systems (ISCAS)_, 1-5, 2021
 
